@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  font-family: cursive;
+  font-weight: lighter;
+}
+
+li {
+  color: red;
+  font-size: 30px;
+}
+
+body {
+  color: green;
+  font-size: 50px;
+}
+
+ul {
+  color: black;
+}

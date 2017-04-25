@@ -17,3 +17,12 @@ body {
 ul {
   color: black;
 }
+
+.light-background {
+  background-color: lightblue;
+}
+
+.dark-background {
+  background-color: RebeccaPurple;
+  color: white;
+}

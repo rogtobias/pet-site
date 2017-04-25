@@ -10,4 +10,8 @@ $(document).ready(function() {
     $("body").addClass("dark-background");
   });
 
+  $("button#home").click(function() {
+    $('body').removeClass()
+  });
+
 });
